@@ -1,0 +1,9 @@
+Chapter 1
+
+Read about the difference between npm and npx here: https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm
+
+read a little bit about styling in React here: https://reactnative.dev/docs/style
+Recommends using a React Stylesheet in file by doing:
+const styles = Stylesheet.create({/* Styles */})
+
+---
