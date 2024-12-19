@@ -7,3 +7,13 @@ Recommends using a React Stylesheet in file by doing:
 const styles = Stylesheet.create({/* Styles */})
 
 ---
+Chapter 2
+
+Reading about Expo routing
+So every file in the 'app' directory is another page or endpoint for your application.
+- index.tsx is the default '/' route.
+- examplefilename.tsx is the '/examplefilename' route
+- _layout.tsx defines UI elements that are shared or common across every page
+	-> _layout has a 'Stack' element. Each Stack.Screen in the Stack points to an endpoint with a given name prop
+
+learned about 'Link' component
