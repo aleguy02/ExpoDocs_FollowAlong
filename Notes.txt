@@ -17,3 +17,8 @@ So every file in the 'app' directory is another page or endpoint for your applic
 	-> _layout has a 'Stack' element. Each Stack.Screen in the Stack points to an endpoint with a given name prop
 
 learned about 'Link' component
+
+---
+Chapter 3
+
+It looks like the docs follow a style convention of separating package imports (like from react-native) and file imports (like from the components directory) by a line
